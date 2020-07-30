@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "515526796666",
+    "firebase_url": "https://adgram-7ff9f.firebaseio.com",
+    "project_id": "adgram-7ff9f",
+    "storage_bucket": "adgram-7ff9f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515526796666:android:e643686201dc391c4d62c3",
+        "android_client_info": {
+          "package_name": "com.mehrheer.adgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515526796666-18jrmrr5nmsjs7anrat7s2uqai9j9ceg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAE5Lkw-xtjtvbc12OUvF0RdC4qM1tpipw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515526796666-18jrmrr5nmsjs7anrat7s2uqai9j9ceg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
