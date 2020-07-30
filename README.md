@@ -1,16 +1,25 @@
-# adgram
+# Adgram
 
-ad network application
+An AD Network Application consisting of influencer role and advertiser role where the influencer can register with their Instagram profile and the Advertiser can post an AD and sign a contract with Influencer for advertising a product.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Login/Signup for Influencer Role
+* View list of registered Influencers
+* View list of ADs
+* Post ADs for Advertiser Role
 
-A few resources to get you started if this is your first Flutter project:
+## Tech/Framework Used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+* Flutter and Dart
+* Firebase
+* Instagram Basic Display API
 
-For help getting started with Flutter, view our
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+For help getting started with Flutter, view
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
