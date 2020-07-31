@@ -1,5 +1,6 @@
 # Adgram
 
+(In progress)
 An AD Network Application consisting of influencer role and advertiser role where the influencer can register with their Instagram profile and the Advertiser can post an AD and sign a contract with Influencer for advertising a product.
 
 ## Features
